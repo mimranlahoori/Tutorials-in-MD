@@ -1,4 +1,6 @@
-# Introduction to HTML
+# Topic 01
+
+## Introduction to HTML
 
 HTML (HyperText Markup Language) is the code that is used to create web pages. It is a markup language, which means that it uses tags to define the structure and content of a web page.
 
@@ -16,7 +18,9 @@ HTML is an important language to learn for several reasons:
 
 HTML is an important language to learn for anyone who wants to work in web development. It is a relatively easy language to learn, and it can open up a wide range of career opportunities.
 
-# History of HTML
+# Topic 02
+
+## History of HTML
 
 HTML (HyperText Markup Language) was developed by Tim Berners-Lee in 1989 as a way to share information with other researchers at CERN, the European Organization for Nuclear Research. The first version of HTML was very simple, and it only allowed users to create basic text documents.
 
@@ -41,7 +45,9 @@ Some of the most significant changes that have been made to HTML over the years 
 
 HTML has evolved significantly over the years to become a powerful and versatile language that can be used to create a wide variety of web pages. The evolution of HTML has been driven by the need to create more complex and interactive web pages. As the web continues to evolve, so too will HTML.
 
-# Key Features of HTML
+# Topic 03
+
+## Key Features of HTML
 
 HTML (HyperText Markup Language) is a markup language that is used to create web pages. It is a relatively simple language to learn, and it is the foundation of all websites.
 
@@ -92,7 +98,9 @@ This document creates a simple web page with a heading and a paragraph of text.
 
 HTML is a powerful and versatile language that can be used to create a wide variety of web pages. It is a relatively simple language to learn, and it is the foundation of all websites.
 
-# HTML in Web Development
+# Topic 04
+
+### HTML in Web Development
 
 HTML (HyperText Markup Language) is the foundation of all websites. It is used to create the structure and content of a web page. HTML is a relatively simple language to learn, and it is the first language that web developers learn.
 
@@ -149,8 +157,9 @@ This code creates a simple web page with a heading and a paragraph of text. The 
 
 HTML is a powerful and versatile language that is used to create a wide variety of websites. It is a relatively simple language to learn, and it is the foundation of all websites. HTML is often used in conjunction with CSS and JavaScript to create more complex and interactive web pages.
 
+# Topic 05
 
-# Practical Examples of HTML Code Snippets
+### Practical Examples of HTML Code Snippets
 
 Here are a few simple HTML code snippets that demonstrate how HTML can be used to create different elements on a web page:
 
@@ -207,7 +216,9 @@ HTML is used to create a wide variety of websites, including:
 
 HTML is a powerful and versatile language that can be used to create a wide variety of websites. It is a relatively simple language to learn, and it is the foundation of all websites.
 
-# HTML Basics
+# Topic 06
+
+### HTML Basics
 
 HTML (HyperText Markup Language) is the code that is used to create web pages. It is a markup language, which means that it uses tags to define the structure and content of a web page.
 
@@ -260,7 +271,9 @@ This document creates a simple web page with a heading and a paragraph of text.
 
 HTML is a powerful and versatile language that can be used to create a wide variety of web pages. It is a relatively simple language to learn, and it is the foundation of all websites.
 
-# Understanding HTML Tags and Elements
+# Topic 07
+
+### Understanding HTML Tags and Elements
 
 HTML tags are used to define the structure and content of a web page. HTML elements are the building blocks of a web page. Each element is defined by a start tag and an end tag.
 
@@ -294,7 +307,9 @@ The `<p>` tag is the opening tag, and the `</p>` tag is the closing tag. The tex
 
 HTML tags and elements are the building blocks of a web page. Tags are used to define the structure and content of a web page, and elements are the individual components of a web page.
 
-# Coding with HTML
+# Topic 08
+
+### Coding with HTML
 
 ### Hands-on Examples of Writing HTML Code
 
@@ -351,7 +366,9 @@ Here are a few practice exercises to reinforce your learning:
 
 The best way to learn HTML is to practice writing code. The more you practice, the more comfortable you will become with the language.
 
-# HTML Document Structure
+# Topic 09
+
+### HTML Document Structure
 
 An HTML document consists of the following three main sections:
 
@@ -405,7 +422,9 @@ This document has a `<html>` tag with the `lang` and `dir` attributes, a `<head>
 
 The HTML document structure is the foundation of all web pages. It is important to understand the role of the `<html>`, `<head>`, and `<body>` tags in order to create valid and well-structured web pages.
 
-# HTML Syntax and Best Practices
+# Topic 10
+
+### HTML Syntax and Best Practices
 
 ### Tips for Writing Clean and Efficient HTML Code
 
@@ -427,7 +446,9 @@ The HTML document structure is the foundation of all web pages. It is important 
 
 Writing clean and efficient HTML code is important for creating websites that are easy to read, understand, and maintain. By following the tips and avoiding the common mistakes outlined above, you can write HTML code that is both effective and professional.
 
-# HTML Headings
+# Topic 11
+
+### HTML Headings
 
 HTML headings are used to create headings and subheadings in a web page. There are six levels of headings, from `<h1>` to `<h6>`.
 
@@ -467,7 +488,9 @@ This example uses a `<h1>` tag for the main heading, `<h2>` tags for the subhead
 
 Using proper headings for content structure is important for creating web pages that are easy to read, understand, and navigate. By following the tips outlined above, you can use headings to improve the usability and SEO of your web pages.
 
-# HTML Paragraphs
+# Topic 12
+
+### HTML Paragraphs
 
 HTML paragraphs are created using the `<p>` tag. The `<p>` tag defines a block of text that is displayed with a top and bottom margin.
 
@@ -509,7 +532,9 @@ This paragraph contains bold, italic, and underlined text, as well as a link to 
 
 HTML paragraphs are used to create blocks of text that are displayed with a top and bottom margin. You can format the text within paragraphs using HTML tags. By using paragraphs and formatting tags, you can create web pages that are easy to read and understand.
 
-# Styling Text in HTML
+# Topic 13
+
+### Styling Text in HTML
 
 There are two ways to style text in HTML:
 
@@ -565,28 +590,29 @@ This code uses an inline style to bold the heading and an external style sheet t
 
 Styling text in HTML is essential for creating web pages that are visually appealing and easy to read. You can use inline styles or external style sheets to style the text in your HTML documents.
 
+# Topic 14
 
-# Formatting Text
+### Formatting Text
 
 In addition to styling text with CSS, you can also format text using HTML tags. The following HTML tags can be used to format text:
 
 * **Text alignment:**
-    * `<p align="left">`: Left-align the text.
-    * `<p align="center">`: Center the text.
-    * `<p align="right">`: Right-align the text.
+  * `<p align="left">`: Left-align the text.
+  * `<p align="center">`: Center the text.
+  * `<p align="right">`: Right-align the text.
 * **Font styles:**
-    * `<b>`: Bold the text.
-    * `<i>`: Italicize the text.
-    * `<u>`: Underline the text.
+  * `<b>`: Bold the text.
+  * `<i>`: Italicize the text.
+  * `<u>`: Underline the text.
 * **Font sizes:**
-    * `<font size="1">`: Set the text to the smallest font size.
-    * `<font size="2">`: Set the text to a small font size.
-    * `<font size="3">`: Set the text to a medium font size.
-    * `<font size="4">`: Set the text to a large font size.
-    * `<font size="5">`: Set the text to the largest font size.
+  * `<font size="1">`: Set the text to the smallest font size.
+  * `<font size="2">`: Set the text to a small font size.
+  * `<font size="3">`: Set the text to a medium font size.
+  * `<font size="4">`: Set the text to a large font size.
+  * `<font size="5">`: Set the text to the largest font size.
 * **Emphasis and strong emphasis:**
-    * `<em>`: Emphasize the text.
-    * `<strong>`: Strongly emphasize the text.
+  * `<em>`: Emphasize the text.
+  * `<strong>`: Strongly emphasize the text.
 
 ### Example of Formatting Text
 
@@ -630,8 +656,9 @@ This text is strongly emphasized.
 
 Formatting text is an important part of creating web pages that are easy to read and understand. You can use HTML tags to format text in a variety of ways, including changing the alignment, font style, font size, and emphasis.
 
+# Topic 15
 
-# HTML Links
+### HTML Links
 
 HTML links are used to create hyperlinks in web pages. Hyperlinks allow users to click on text or images to navigate to other web pages or to specific sections of the current page.
 
@@ -678,20 +705,22 @@ When a user clicks on the "Google" link, they will be taken to the Google homepa
 
 HTML links are an essential part of web pages. They allow users to navigate to other web pages or to specific sections of the current page. You can create links using the `<a>` tag. The `<a>` tag has two required attributes: `href` and `text`. The `href` attribute specifies the URL of the page that the link will go to, and the `text` attribute specifies the text that will be displayed as the link.
 
-# Hyperlink Attributes
+# Topic 16
+
+### Hyperlink Attributes
 
 In addition to the `href` and `text` attributes, the `<a>` tag has a number of other attributes that can be used to control the behavior of the link. Some of the most common hyperlink attributes include:
 
 * **target**: The `target` attribute specifies the frame or window in which the linked document will be displayed. The following values are supported:
-    * `_self`: The linked document will be displayed in the same frame or window as the current document.
-    * `_blank`: The linked document will be displayed in a new window or tab.
-    * `_parent`: The linked document will be displayed in the parent frame of the current document.
-    * `_top`: The linked document will be displayed in the topmost frame of the current window.
+  * `_self`: The linked document will be displayed in the same frame or window as the current document.
+  * `_blank`: The linked document will be displayed in a new window or tab.
+  * `_parent`: The linked document will be displayed in the parent frame of the current document.
+  * `_top`: The linked document will be displayed in the topmost frame of the current window.
 * **rel**: The `rel` attribute specifies the relationship between the current document and the linked document. The following values are supported:
-    * `alternate`: The linked document is an alternate version of the current document.
-    * `canonical`: The linked document is the canonical version of the current document.
-    * `next`: The linked document is the next document in a series.
-    * `prev`: The linked document is the previous document in a series.
+  * `alternate`: The linked document is an alternate version of the current document.
+  * `canonical`: The linked document is the canonical version of the current document.
+  * `next`: The linked document is the next document in a series.
+  * `prev`: The linked document is the previous document in a series.
 * **type**: The `type` attribute specifies the MIME type of the linked document.
 
 ### Using Images as Clickable Links in HTML
