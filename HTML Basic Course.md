@@ -1,4 +1,4 @@
-## Introduction to HTML
+# Introduction to HTML
 
 HTML (HyperText Markup Language) is the code that is used to create web pages. It is a markup language, which means that it uses tags to define the structure and content of a web page.
 
@@ -26,7 +26,7 @@ HTML tags can be used to create a variety of different elements on a web page, i
 
 HTML is a powerful and versatile language that is used to create web pages. It is a relatively easy language to learn, and it can be used to create a wide variety of web pages.
 
-## Importance of Learning HTML
+# Importance of Learning HTML
 
 HTML is the foundation of the web. It is the code that is used to create web pages, and it is essential for anyone who wants to work in web development.
 
@@ -54,7 +54,7 @@ There are many career opportunities for people with HTML proficiency. Some of th
 
 Learning HTML is a valuable investment for anyone who wants to work in web development. It is a relatively easy language to learn, and it can open up a wide range of career opportunities.
 
-## Basic Structure of HTML
+# Basic Structure of HTML
 
 An HTML document consists of the following components:
 
