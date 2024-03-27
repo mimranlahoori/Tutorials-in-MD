@@ -19,8 +19,6 @@ CSS was developed by the World Wide Web Consortium (W3C) in the late 1990s. The 
 
 CSS has become increasingly important in web design over the years, and it is now considered to be an essential part of the web development process.
 
-
-
 # Topic 02
 
 ##### Basic Syntax
@@ -80,8 +78,6 @@ p {
 When the browser renders the web page, it will apply the CSS rule to the paragraph element, and the text in the paragraph will be displayed in red.
 
 CSS can be used to style any element in an HTML document, including headings, lists, images, and tables.
-
-
 
 # Topic 03
 
@@ -1504,33 +1500,3 @@ Here is a breakdown of the CSS code:
 * The `.text-gray-500` class sets the color of the paragraph to gray.
 
 This is just a simple example of how to use Tailwind CSS. Tailwind CSS provides a wide range of utility classes that can be used to create more complex and interactive web pages.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
