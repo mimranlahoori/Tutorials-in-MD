@@ -1,6 +1,6 @@
 
 
-# 🚀 **Laravel Livewire Post Tagging System - Ready to Upload GitHub Code**
+# 🚀 **Laravel Livewire Post Tagging System**
 
 ---
 
